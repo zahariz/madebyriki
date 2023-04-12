@@ -108,6 +108,15 @@ ul {
 
 a {
   text-decoration: none;
+  cursor: pointer;
+}
+
+button {
+    text-decoration: none;
+    cursor: pointer;
+    font-family: var(--body-font);
+    font-size: var(--font-medium);
+
 }
 
 img {
